@@ -1,0 +1,9 @@
+[submodule "jhalfs-mirror"]
+	path = contrib/jhalfs
+	url = git@github.com:TheSurgeon503/jhalfs-mirror.git
+[submodule "blfs-mirror"]
+	path = contrib/blfs-git
+	url = git@github.com:TheSurgeon503/blfs-mirror.git
+[submodule "lfs-mirror"]
+	path = contrib/lfs-git
+	url = git@github.com:TheSurgeon503/lfs-mirror.git
